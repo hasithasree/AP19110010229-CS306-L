@@ -1,0 +1,33 @@
+
+ hasiab : identifier
+ main : identifier
+(
+)
+
+{
+
+ i : identifier 
+2: number
+;
+
+ 
+ int : keyword 
+ i : identifier
+;
+
+ A : identifier
+ relational operator <=
+ B : identifier
+;
+
+ 
+123: number
+;
+
+
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexemecomment did not close
