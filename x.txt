@@ -1,16 +1,7 @@
-hasiab main()
-{
-    i=2;
-    int i;
-    A<=B;
-    123;
-    /* comment is placed*/
-    /
-    *it requires a t,x*
-    if(a%x==o)
-    {
-        a=+a;
-    }
-    
-    
+#include<stdio.h>
+int main{
+int x, y,xz;
+x<=y>xz
+\\hey
+printf("Hello");
 }
